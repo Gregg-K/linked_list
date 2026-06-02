@@ -83,7 +83,7 @@ The solution compares nodes from both linked lists and appends the smaller node 
 
 ## Run
 
-Submit the code on LeetCode or run it in a Python environment that supports the `ListNode` class.
+Run it in a Python environment that supports the `ListNode` class.
 
 ## Author
 
